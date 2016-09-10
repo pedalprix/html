@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 ####################################################
-# 30-gen-cars-current-pos-json.py
+# 10-gen-cars-current-pos-json.py
 
 # This script looks at the generated data and generates output jsons
 
