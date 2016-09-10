@@ -1,0 +1,17 @@
+Team              : Naracoorte High School
+  Lap Number      : 49
+Average Lap Time: 2:23.44
+  Current Rider   : BenV
+  Last 3 Laps -
+    LapNo       Rider		Lap Time	Lap Start Time  Lap Finish Time
+     22         NathanM		3:06.45		23:06.45	23:06.45
+     21         NathanM		3:36.45		23:06.45	23:06.45
+     20         BenV		3:06.45		23:06.45	23:06.45
+  Fastest 3 Laps -
+    LapNo       Rider		Lap Time	Lap Start Time  Lap Finish Time
+     01         AlexM		3:06.45		23:06.45	23:06.45
+     12         NathanM		3:06.45		23:06.45	23:06.45
+     20         BenV		3:06.45		23:06.45	23:06.45
+  Diagnostics -
+    Time since last GPS message  : 4 seconds
+    Time since last RFID message : 7 seconds
